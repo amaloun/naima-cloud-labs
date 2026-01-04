@@ -12,7 +12,7 @@ Welcome to my central repository for all my Cloud & DevOps tutorials! I'm Naima,
 
 | Lab # | Topic | Key Tools | Video Link |
 | :--- | :--- | :--- | :--- |
-| **01** | **EKS Networking: AWS Load Balancer Controller** | Terraform, EKS, ALB | [Watch Now]() |
+| **01** | **EKS Networking: AWS Load Balancer Controller** | Terraform, EKS, ALB | [Watch Now](https://youtu.be/oZq_bNXf3aM?si=jZYegRXv3pOS7WFq) |
 
 ---
 
